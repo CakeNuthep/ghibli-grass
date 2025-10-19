@@ -1,5 +1,6 @@
 # Ghibli Grass
 
+Article: https://medium.com/antaeus-ar/making-grass-with-triangles-in-glsl-using-three-js-e106771a71ff
 This is the source code for a demo showing a method of rendering grass in three.js
 
 I used it in my interactive experience ["to the Limbs"](https://create.viverse.com/TkZWCbJ)
